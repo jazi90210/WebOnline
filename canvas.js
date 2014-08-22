@@ -1,7 +1,7 @@
 var dibujo, lienzo, t, b;
 function inicio()
 {
-    alert("Todo funciona");
+    var a = 25;
     t = document.getElementById("usuario");
     b = document.getElementById("dibujalo");a
     dibujo = document.getElementById("dibujito");
